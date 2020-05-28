@@ -8,7 +8,7 @@ Download the appropriate binary from releases
 
 Place in one of the following locations
 
-- ~/.ansible/polugins/modules
+- ~/.ansible/plugins/modules
 - {{playbook_dir}}/library
 - /usr/share/ansible/plugins/modules
 
